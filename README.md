@@ -1,4 +1,4 @@
-# Policy-forum-McCauley-etal-2016-SM
+# McCauley et al 2016 Supplimental Material
 
 Supplemental information, code, and underlying data for the MS: Douglas J. McCauley, Paul Woods, Brian Sullivan, Bjorn Bergman, Caroline Jablonicky, Aaron Roan, Michael Hirshfield, Kristina Boerder, and Boris Worm (2016). Ending hide and seek at sea.
 
