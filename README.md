@@ -1,4 +1,7 @@
 # Policy-forum-McCauley-etal-2016-SM
+
+Supplemental information, code, and underlying data for the MS: Douglas J. McCauley, Paul Woods, Brian Sullivan, Bjorn Bergman, Caroline Jablonicky, Aaron Roan, Michael Hirshfield, Kristina Boerder, and Boris Worm (2016). Ending hide and seek at sea.
+
 Description of files:
 
 Fishing_score_algorithm.py – python code used to determine mechanics of algorithm used to assign fishing scores to processed AIS data as described in supplementary materials section 4.
