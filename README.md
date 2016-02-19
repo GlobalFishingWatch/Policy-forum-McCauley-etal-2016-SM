@@ -16,11 +16,11 @@ MMSI_list_all_fishing_days.csv - Master list of all MMSIs (individual vessels) t
 
 Figure_raster_data folder contains 4 folders:
 
-1a - original composite raster file (.asc file type) used to create Fig. 1A (number of fishing days for each grid cell) + 169  individual raster data files for each unique MMSI identified to be putatively fishing in area of interest. Each file denotes the number of fishing days/grid cell.
+1a - original composite raster file (.asc file type) used to create Fig. 1A (number of fishing days for each grid cell) + 141  individual raster data files for each unique MMSI identified to be putatively fishing in area of interest. Each file denotes the number of fishing days/grid cell.
 
-1b - original composite raster file (.asc file type) used to create Fig. 1B (number of fishing days for each grid cell) + 210  individual raster data files for each unique MMSI identified to be putatively fishing in area of interest. Each file denotes the number of fishing days/grid cell.
+1b - original composite raster file (.asc file type) used to create Fig. 1B (number of fishing days for each grid cell) + 142  individual raster data files for each unique MMSI identified to be putatively fishing in area of interest. Each file denotes the number of fishing days/grid cell.
 
-S2 – original composite raster file (.asc file type) used to create Fig. 1A (number of fishing days for each grid cell) + 152  individual raster data files for each unique MMSI identified to be putatively fishing in area of interest. Each file denotes the number of fishing days/grid cell.
+S2 – original composite raster file (.asc file type) used to create Fig. 1A (number of fishing days for each grid cell) + 130  individual raster data files for each unique MMSI identified to be putatively fishing in area of interest. Each file denotes the number of fishing days/grid cell.
 
-S8 - original composite raster file (.asc file type) used to create Fig. S8 (number of fishing days for each grid cell) + 132  individual raster data files for each unique MMSI identified to be putatively fishing in area of interest. Each file denotes the number of fishing days/grid cell.
+S8 - original composite raster file (.asc file type) used to create Fig. S8 (number of fishing days for each grid cell) + 131  individual raster data files for each unique MMSI identified to be putatively fishing in area of interest. Each file denotes the number of fishing days/grid cell.
 
