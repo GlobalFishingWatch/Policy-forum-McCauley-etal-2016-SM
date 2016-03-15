@@ -32,3 +32,5 @@ score = where(score < 0.0, 0.0, where(score > 1.0, 1.0, score))
 
 # Port behavior is hard to distinguish from fishing, so supress score close to shore...
 x['measure_score_3600'] = where(x['distance_to_shore'] < 3, 0.0, score)
+
+#Author: Egil Moeller <egil@skytruth.org>
